@@ -1,0 +1,28 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es6",   // 어떤 버전의 자바스크립트로 바꿔줄지 정하는 부분                                
+    "lib":["es2015","es2016","es2017","es2018","es2019","es2020"],
+    "module": "CommonJS", // require 문법으로할지, import 문법으로 할지 정하는 부분
+    "strict": true,    // 각종 타입 체킹 동작
+    "allowJs": false, // javascript 다른 파일들을 임포트 가능하게 할건지 여부 
+    "outDir":"dist", // 컴파일 후 js파일들이 생성되는 곳
+    "moduleResolution": "node", // 모듈 분석 방법
+    "esModuleInterop": true, // ES6의 모듈 사양을 준수해서 CommonJS 모듈을 가져올 수 있게 한다.
+  },
+  "paths": {
+    "@/*": ["*"],
+    "@config": ["config"],
+    "@controllers/*": ["controllers/*"],
+    "@db": ["db"],
+    "@exceptions/*": ["exceptions/*"],
+    "@interfaces/*": ["interfaces/*"],
+    "@middlewares/*": ["middlewares/*"],
+    "@models/*": ["models/*"],
+    "@routes/*": ["routes/*"],
+    "@services/*": ["services/*"],
+    "@utils/*": ["utils/*"]
+  },
+  "include": ["src/**/*", "src/.env"],
+  "exclude": ["node_modules"],
+}
