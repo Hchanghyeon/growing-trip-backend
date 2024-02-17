@@ -1,10 +1,9 @@
-# GrowtProj(BE)
-
-### 이 레파지토리는 현재 private 되어있는 원래 프로젝트에서 보안상 문제되는 부분을 전부 삭제 후 재업로드한 프로젝트입니다.
-
-### 올라와 있는 모든 코드는 제가 직접 작성한 코드입니다.
+# growing-trip-backend
 
 사용자가 여행을 다니며 자신의 캐릭터와 함께 같이 성장하는 여행 SNS 웹애플리케이션
+
+### 팀 구성
+팀장(본인 웹프론트, 웹백엔드), 팀원1(인공지능), 팀원2(DB)
 
 ### 본인 역할 및 제작 기능
 - 시스템 전체 설계 및 서버 구축(Synology Nas Docker)/배포
@@ -26,12 +25,13 @@ https://mike96.synology.me:3000/
 
 ### Git 주소
 백엔드
-https://github.com/Hchanghyeon/GrowtProj
+https://github.com/Hchanghyeon/growing-trip-backend
 프론트엔드
-https://github.com/Hchanghyeon/GrowtProj_React
+https://github.com/Hchanghyeon/growing-trip-frontend
 
 ### 📽️ 구현 시연 영상
 https://youtu.be/iMxMQCam5oE
 
-### 팀 구성
-팀장(본인 웹프론트, 웹백엔드), 팀원1(인공지능), 팀원2(DB)
+### 관련 이미지
+![슬라이드7](https://github.com/Hchanghyeon/growing-trip-frontend/assets/92444744/c9a2d6d5-081b-4fe0-946b-2063b91d781b)
+![슬라이드8](https://github.com/Hchanghyeon/growing-trip-frontend/assets/92444744/ca80d53b-1b9b-4f30-a993-0388166450cb)
