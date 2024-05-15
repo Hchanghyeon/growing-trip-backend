@@ -19,9 +19,10 @@
 - 여행지 검색 기능 구현
 
 ### Git 주소
-백엔드
+백엔드 <br>
 https://github.com/Hchanghyeon/growing-trip-backend
-프론트엔드
+
+프론트엔드 <br>
 https://github.com/Hchanghyeon/growing-trip-frontend
 
 ### 📽️ 구현 시연 영상
