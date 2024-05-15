@@ -18,11 +18,6 @@
 - 좋아요/댓글/목록 기능 구현
 - 여행지 검색 기능 구현
 
-### 제작 사이트
-https://www.growingtrip.com:3000/
-SSL 만료시 아래 사이트 접속
-https://mike96.synology.me:3000/
-
 ### Git 주소
 백엔드
 https://github.com/Hchanghyeon/growing-trip-backend
