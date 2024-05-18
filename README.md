@@ -19,7 +19,7 @@
 - 여행지 검색 기능 구현
 
 ### 사이트 주소
-https://growing-trip-frontend.vercel.app
+https://www.growingtrip.com
 
 ### Git 주소
 백엔드 <br>
